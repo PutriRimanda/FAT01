@@ -9,7 +9,7 @@ git config user.email
 git status
 
 - Add modified files to the staging area
-git add.
+git add .
 
 Create a commit
 git commit -m "Description"
