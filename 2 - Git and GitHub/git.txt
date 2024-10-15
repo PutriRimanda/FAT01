@@ -1,3 +1,4 @@
+- Configure Git 
 git config --global user.name "username"
 git config user.name
 git config --global user.email "email"
@@ -19,3 +20,19 @@ git log --oneline
 
 - Initialize a Repository
 git init
+
+- Branching
+
+- List all the branches
+git branch -a
+
+- Create a branch
+git branch [branch-name]
+
+- Switch
+git checkout [branch-name]
+git switch [branch-name]
+
+U - Untrack
+A - Added
+M - Modified
